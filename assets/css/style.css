@@ -1,0 +1,25 @@
+.navbar {
+    height: 50px;
+    background-color: black !important;
+    line-height: 40px;
+    padding: auto 0;
+
+}
+.navbar-brand {
+    font-family: 'Sura', serif;
+    font-size: 26px;
+    line-height: 40px;
+    padding: 0 0;
+}
+
+.nav-link {
+    color: #ffffff !important;
+}
+
+.container {
+    width: 960px;
+}
+
+.gem {
+    border: 1px solid black !important;
+}
